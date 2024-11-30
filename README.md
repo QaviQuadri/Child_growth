@@ -1,4 +1,3 @@
-```markdown
 # KidsCare Pro
 
 **KidsCare Pro** is an intelligent child health management platform powered by a Machine Learning model with 95% accuracy. It provides parents and doctors with reliable health predictions, tracks developmental milestones, and offers actionable insights to enhance child healthcare.
@@ -34,7 +33,7 @@ The **AI Health Predictor** is the core of KidsCare Pro, built using the followi
 - **Accuracy**: Achieves a 95% accuracy in predicting health-related outcomes.
 - **Features Used**: Age, weight, height, BMI, symptoms, and historical health data.
 - **Personalized Insights**: Generates tailored health recommendations based on input data.
-```
+- 
 ## Installation
 
 1. **Clone the repository**:
