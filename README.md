@@ -1,5 +1,3 @@
-Here's an updated version of the **README.md** focusing on the use of a Machine Learning model with 95% accuracy:
-
 ```markdown
 # KidsCare Pro
 
@@ -36,14 +34,14 @@ The **AI Health Predictor** is the core of KidsCare Pro, built using the followi
 - **Accuracy**: Achieves a 95% accuracy in predicting health-related outcomes.
 - **Features Used**: Age, weight, height, BMI, symptoms, and historical health data.
 - **Personalized Insights**: Generates tailored health recommendations based on input data.
-
+```
 ## Installation
 
 1. **Clone the repository**:
    ```bash
    git clone <repository_url>
    cd <repository_directory>
-   ```
+
 
 2. **Install dependencies**:
    Ensure you have Python 3.8+ installed. Then run:
